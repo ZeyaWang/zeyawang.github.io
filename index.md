@@ -1,7 +1,7 @@
 
 
 
-<img src="./zeyawang.jpg" alt="drawing" width="400"/>
+<img src="./zeyawang.jpeg" alt="drawing" width="400"/>
 
 
 
@@ -20,9 +20,9 @@ Email: Zeya.Wang@uky.edu
 
 
 
---## News
+-- ## News
 
---## Students
+-- ## Students
 
 ## Publications
 
@@ -35,7 +35,7 @@ Email: Zeya.Wang@uky.edu
 
 * Jieli Zhou, Baoyu Jing, **Zeya Wang**✉︎, Hongyi Xin, Hanghang Tong (2021). Soda: Detecting covid-19 in chest x-rays with semi-supervised open set domain adaptation. IEEE/ACM Transactions on Computational Biology and Bioinformatics
 
-* Shreya Kadambi\*, **Zeya Wang\***✉︎, Eric Xing (2021). WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images. International Journal of Computer Assisted Radiology and Surgery
+* Shreya Kadambi\*, **Zeya Wang**\*✉︎, Eric Xing (2021). WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images. International Journal of Computer Assisted Radiology and Surgery
 
 * Jeffrey S Morris, Manal M Hassan, Ye Emma Zohner, **Zeya Wang**, Lianchun Xiao, Asif Rashid, Abedul Haque, Reham Abdel‐Wahab, Yehia A Mohamed, Karri L Ballard, Robert A Wolff, Bhawana George, Liang Li, Genevera Allen, Michael Weylandt, Donghui Li, Wenyi Wang, Kanwal Raghav, James Yao, Hesham M Amin, Ahmed Omar Kaseb (2020). HepatoScore‐14: Measures of biological heterogeneity significantly improve prediction of hepatocellular carcinoma risk. Hepatology
 
@@ -76,8 +76,28 @@ Email: Zeya.Wang@uky.edu
 * Hao Zhang, Peng Wu, Zhijie Deng, Christy Li, Qirong Ho, Aurick Qiao, **Zeya Wang**, Eric Xing (2021). Autodist: A
 Composable and Automated Synchronization System for Distributed Deep learning.
 
-* Shaolong Cao\*, **Zeya Wang\***, Fan Gao, Jingxiao Chen, Feng Zhang, Daniel E Frigo, Eleni Efstathiou, Scott Kopetz, Wenyi Wang (2019). An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT.
+* Shaolong Cao\*, **Zeya Wang**\*, Fan Gao, Jingxiao Chen, Feng Zhang, Daniel E Frigo, Eleni Efstathiou, Scott Kopetz, Wenyi Wang (2019). An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT.
 
 
+## Contributed Softwares
+
+* [DeMixT](https://www.google.com/url?q=https%3A%2F%2Fwww.bioconductor.org%2Fpackages%2Frelease%2Fbioc%2Fhtml%2FDeMixT.html&sa=D): A Computational Tool for Cell Type-specific Deconvolution of Heterogeneous Tumor Samples Using Expression Data from RNAseq or Microarray Platforms
+
+* [AutoDist](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fpetuum%2Fautodist&sa=D): A Composable and Automated Synchronization System for Distributed Deep Learning
+
+* [Tuun](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fpetuum%2Ftuun&sa=D): A Toolkit for Efficient Hyperparameter Tuning via Uncertainty Modeling, with a Focus on Flexible Model choice, Scalability, and Use in Distributed Settings.
 
 
+## Academic Activities
+
+### Program Committee Members or Reviewers for:
+* Journals: Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, BMC Genomics, Scientific Report , PLOS One, Computer Methods and Programs in Biomedicine, Information Sciences, Journal of Digital Imaging, Journal of Cleaner Production , Mathematical Biosciences , Chemometrics and Intelligent Laboratory Systems, Computational Biology and Chemistry
+
+*Conferences: The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP) , ACM International Conference on Web Search and Data Mining (WSDM), International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM), International Conference On Intelligent Computing
+
+* Teaching Experience:
+- TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
+
+
+### Social Activities
+I'm also a fervent soccer enthusiast and a dedicated amateur player. My amateurish soccer journey has led me to the role of striker in several teams, including Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC, all within the esteemed Greater Pittsburgh Soccer League.

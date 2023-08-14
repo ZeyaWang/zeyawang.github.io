@@ -1,7 +1,7 @@
 
 
 
-<img src="./zeyawang.jpeg" alt="drawing" width="400"/>
+<img src="./zeyawang.jpeg" alt="drawing" width="600"/>
 
 
 

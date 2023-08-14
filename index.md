@@ -26,7 +26,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ### Journal Publications
 \* = authors contributed equally,  :envelope: = corresponding author
 
-* **Zeya Wang**, Veera Baladandayuthapan, Ahmed O Kaseb, Hesham M Amin, Manal M Hassan, Wenyi Wang, Jeffrey S Morris (2021). Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer. _**Journal of the American Statistical Association**_
+* **Zeya Wang**, Veera Baladandayuthapan, Ahmed O Kaseb, Hesham M Amin, Manal M Hassan, Wenyi Wang, Jeffrey S Morris (2022). Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer. _**Journal of the American Statistical Association**_
 
 * **Zeya Wang**✉︎, Yang Ni, Baoyu Jing, Deqing Wang, Hao Zhang, Eric Xing (2021). DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering. _**IEEE Transactions on Neural Networks and Learning Systems**_
 

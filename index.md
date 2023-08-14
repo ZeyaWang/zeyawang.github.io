@@ -90,9 +90,9 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 
 * Conferences: The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP) , ACM International Conference on Web Search and Data Mining (WSDM), International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM), International Conference On Intelligent Computing
 
-* Teaching Experience:
+### Teaching Experience:
 
-TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
+* TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
 
 ### Social Activities

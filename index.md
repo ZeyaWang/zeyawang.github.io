@@ -5,24 +5,20 @@
 
 
 
-Assistant Professor, Department of Statistics
+**Assistant Professor, Department of Statistics**
 
 
-University of Kentucky
+**University of Kentucky**
 
 
 I earned my Ph.D. from the Department of Statistics at the George R. Brown School of Engineering, Rice University. My professional journey includes serving as a senior machine learning engineer at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I've contributed as a research scientist at Petuum Inc., concentrating on machine learning and medical imaging. I've also held a significant role as a postdoctoral research fellow at the University of Texas MD Anderson Cancer Center, delving into statistical modeling on omics data. Further enriching my experience, I completed a research internship at IBM Research, focusing on genomic data compression. My research interests encompass methodological studies for machine learning, statistical computing, graphical models, and Bayesian inference, with a specific focus on biomarker detection in imaging genomics, machine intelligence, and precision medicine.
 
-Email: Zeya.Wang@uky.edu
+Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=3xUT1e0AAAAJ&hl=en)
 [Linkedin](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzeyawang%2F&sa=D)
 
 
-
--- ## News
-
--- ## Students
 
 ## Publications
 

@@ -28,44 +28,44 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * **Zeya Wang**, Veera Baladandayuthapan, Ahmed O Kaseb, Hesham M Amin, Manal M Hassan, Wenyi Wang, Jeffrey S Morris (2021). Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer. _**Journal of the American Statistical Association**_
 
-* **Zeya Wang**✉︎, Yang Ni, Baoyu Jing, Deqing Wang, Hao Zhang, Eric Xing (2021). DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering. **IEEE Transactions on Neural Networks and Learning Systems**
+* **Zeya Wang**✉︎, Yang Ni, Baoyu Jing, Deqing Wang, Hao Zhang, Eric Xing (2021). DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering. _**IEEE Transactions on Neural Networks and Learning Systems**_
 
-* Jieli Zhou, Baoyu Jing, **Zeya Wang**✉︎, Hongyi Xin, Hanghang Tong (2021). Soda: Detecting covid-19 in chest x-rays with semi-supervised open set domain adaptation. **IEEE/ACM Transactions on Computational Biology and Bioinformatics**
+* Jieli Zhou, Baoyu Jing, **Zeya Wang**✉︎, Hongyi Xin, Hanghang Tong (2021). Soda: Detecting covid-19 in chest x-rays with semi-supervised open set domain adaptation. _**IEEE/ACM Transactions on Computational Biology and Bioinformatics**_
 
-* Shreya Kadambi\*, **Zeya Wang**\*✉︎, Eric Xing (2021). WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images. **International Journal of Computer Assisted Radiology and Surgery**
+* Shreya Kadambi\*, **Zeya Wang**\*✉︎, Eric Xing (2021). WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images. _**International Journal of Computer Assisted Radiology and Surgery**_
 
-* Jeffrey S Morris, Manal M Hassan, Ye Emma Zohner, **Zeya Wang**, Lianchun Xiao, Asif Rashid, Abedul Haque, Reham Abdel‐Wahab, Yehia A Mohamed, Karri L Ballard, Robert A Wolff, Bhawana George, Liang Li, Genevera Allen, Michael Weylandt, Donghui Li, Wenyi Wang, Kanwal Raghav, James Yao, Hesham M Amin, Ahmed Omar Kaseb (2020). HepatoScore‐14: Measures of biological heterogeneity significantly improve prediction of hepatocellular carcinoma risk. **Hepatology**
+* Jeffrey S Morris, Manal M Hassan, Ye Emma Zohner, **Zeya Wang**, Lianchun Xiao, Asif Rashid, Abedul Haque, Reham Abdel‐Wahab, Yehia A Mohamed, Karri L Ballard, Robert A Wolff, Bhawana George, Liang Li, Genevera Allen, Michael Weylandt, Donghui Li, Wenyi Wang, Kanwal Raghav, James Yao, Hesham M Amin, Ahmed Omar Kaseb (2020). HepatoScore‐14: Measures of biological heterogeneity significantly improve prediction of hepatocellular carcinoma risk. _**Hepatology**_
 
-* **Zeya Wang**, Shaolong Cao, Jeffrey S Morris, Jaeil Ahn, Rongjie Liu, Svitlana Tyekucheva, Fan Gao, Bo Li, Wei Lu, Ximing Tang, Ignacio I Wistuba, Michaela Bowden, Lorelei Mucci, Massimo Loda, Giovanni Parmigiani, Chris C Holmes, Wenyi Wang (2018). Transcriptome Deconvolution of Heterogeneous Tumor Samples with Immune Infiltration. **iScience (Cell Press)**
+* **Zeya Wang**, Shaolong Cao, Jeffrey S Morris, Jaeil Ahn, Rongjie Liu, Svitlana Tyekucheva, Fan Gao, Bo Li, Wei Lu, Ximing Tang, Ignacio I Wistuba, Michaela Bowden, Lorelei Mucci, Massimo Loda, Giovanni Parmigiani, Chris C Holmes, Wenyi Wang (2018). Transcriptome Deconvolution of Heterogeneous Tumor Samples with Immune Infiltration. _**iScience (Cell Press)**_
 
-* Aliaksei Z Holik, Charity W Law, Ruijie Liu, **Zeya Wang**, Wenyi Wang, Jaeil Ahn, Marie-Liesse Asselin-Labat, Gordon K Smyth, Matthew E Ritchie (2017). RNA-seq mixology: designing realistic control experiments to compare protocols and analysis methods. **Nucleic acids research**
+* Aliaksei Z Holik, Charity W Law, Ruijie Liu, **Zeya Wang**, Wenyi Wang, Jaeil Ahn, Marie-Liesse Asselin-Labat, Gordon K Smyth, Matthew E Ritchie (2017). RNA-seq mixology: designing realistic control experiments to compare protocols and analysis methods. _**Nucleic acids research**_
 
-* Malin Song, Wanping Zheng, **Zeya Wang** (2016). Environmental efficiency and energy consumption of highway transportation systems in China. **International Journal of Production Economics**
+* Malin Song, Wanping Zheng, **Zeya Wang** (2016). Environmental efficiency and energy consumption of highway transportation systems in China. _**International Journal of Production Economics**_
 
-* Malin Song, Yaqin Song, Huayin Yu, **Zeya Wang** (2013). Calculation of China’s environmental efficiency and relevant hierarchical cluster analysis from the perspective of regional differences. **Mathematical and Computer Modelling**
+* Malin Song, Yaqin Song, Huayin Yu, **Zeya Wang** (2013). Calculation of China’s environmental efficiency and relevant hierarchical cluster analysis from the perspective of regional differences. _**Mathematical and Computer Modelling**_
 
-* Malin Song, Linling Zhang, Qingxian An, **Zeya Wang**, Zhen Li (2013). Statistical analysis and combination forecasting of environmental efficiency and its influential factors since China entered the WTO. **Journal of Cleaner Production**
+* Malin Song, Linling Zhang, Qingxian An, **Zeya Wang**, Zhen Li (2013). Statistical analysis and combination forecasting of environmental efficiency and its influential factors since China entered the WTO. _**Journal of Cleaner Production**_
 
-* Malin Song, Qingxian An, Wei Zhang, **Zeya Wang**, Jie Wu (2012). Environmental efficiency evaluation based on data envelopment analysis: a review. **Renewable and Sustainable Energy Reviews**
+* Malin Song, Qingxian An, Wei Zhang, **Zeya Wang**, Jie Wu (2012). Environmental efficiency evaluation based on data envelopment analysis: a review. _**Renewable and Sustainable Energy Reviews**_
 
 ### Conference Publications
 
 
-* Yang Ni, David Jones, **Zeya Wang** (2020). Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering. **IEEE International Conference on Big Data (IEEE BigData)**
+* Yang Ni, David Jones, **Zeya Wang** (2020). Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering. _**IEEE International Conference on Big Data (IEEE BigData)**_
 
-* **Zeya Wang**, Baoyu Jing, Yang Ni, Nanqing Dong, Pengtao Xie, Eric Xing (2020). Adversarial domain adaptation being aware of class relationships. **European Conference on Artificial Intelligence (ECAI)** (Oral Presentation)
+* **Zeya Wang**, Baoyu Jing, Yang Ni, Nanqing Dong, Pengtao Xie, Eric Xing (2020). Adversarial domain adaptation being aware of class relationships. _**European Conference on Artificial Intelligence (ECAI)**_ (Oral Presentation)
 
-* Baoyu Jing, **Zeya Wang**, Eric Xing (2019). Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports. **Annual Meeting of the Association for Computational Linguistics** (ACL)
+* Baoyu Jing, **Zeya Wang**, Eric Xing (2019). Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports. _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
 
-* **Zeya Wang**, Nanqing Dong, Sean D Rosario, Min Xu, Pengtao Xie, Eric Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  **IEEE 16th International Symposium on Biomedical Imaging** (ISBI)
+* **Zeya Wang**, Nanqing Dong, Sean D Rosario, Min Xu, Pengtao Xie, Eric Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging**_ (ISBI)
 
-* Wei Dai, Nanqing Dong, **Zeya Wang**, Xiaodan Liang, Hao Zhang, Eric Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. **International Workshop on Deep Learning in Medical Image Analysis** (DLMIA)
+* Wei Dai, Nanqing Dong, **Zeya Wang**, Xiaodan Liang, Hao Zhang, Eric Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 
-* Nanqing Dong, Michael Kampffmeyer, Xiaodan Liang, **Zeya Wang**, Wei Dai, Eric Xing (2018). Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images. **International Workshop on Deep Learning in Medical Image Analysis** (DLMIA)
+* Nanqing Dong, Michael Kampffmeyer, Xiaodan Liang, **Zeya Wang**, Wei Dai, Eric Xing (2018). Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images. _**International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**_ 
 
-* Nanqing Dong, Michael Kampffmeyer, Xiaodan Liang, **Zeya Wang**, Wei Dai, Eric Xing (2018). Unsupervised domain adaptation for automatic estimation of cardiothoracic ratio. **International Conference on Medical Image Computing and Computer-Assisted Intervention** (MICCAI)
+* Nanqing Dong, Michael Kampffmeyer, Xiaodan Liang, **Zeya Wang**, Wei Dai, Eric Xing (2018). Unsupervised domain adaptation for automatic estimation of cardiothoracic ratio. _**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**_ 
 
-* **Zeya Wang**, Nanqing Dong, Wei Dai, Sean D Rosario, Eric Xing (2018). Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling. **International Conference Image Analysis and Recognition (ICIAR)**  (Oral Presentation)
+* **Zeya Wang**, Nanqing Dong, Wei Dai, Sean D Rosario, Eric Xing (2018). Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling. _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
 
 ### Unrefereed Manuscripts
 * Hao Zhang, Peng Wu, Zhijie Deng, Christy Li, Qirong Ho, Aurick Qiao, **Zeya Wang**, Eric Xing (2021). Autodist: A

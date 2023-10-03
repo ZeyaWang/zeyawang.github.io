@@ -24,7 +24,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ## Publications
 
 ### Journal Publications
-\* = authors contributed equally,  :envelope: = corresponding author
+\* = authors contributed equally,  ✉︎ = corresponding author
 
 * **Zeya Wang**, Veera Baladandayuthapan, Ahmed O Kaseb, Hesham M Amin, Manal M Hassan, Wenyi Wang, Jeffrey S Morris (2022). Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer. _**Journal of the American Statistical Association**_
 

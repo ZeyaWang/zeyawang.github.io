@@ -92,6 +92,7 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 
 ### Teaching Experience:
 
+* Instructor of STA 695: Statistical Machine Learning and Predictive Modeling, Fall 2023, University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
 

@@ -89,7 +89,7 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 ## Academic Activities
 
 ### Program Committee Members or Reviewers for:
-* Journals: Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, Knowledge and Information Systems, IEEE Transactions on Cybernetics, BMC Genomics, Scientific Report, PLOS One, Computer Methods and Programs in Biomedicine, Information Sciences, Journal of Digital Imaging, Journal of Cleaner Production, Mathematical Biosciences, Chemometrics and Intelligent Laboratory Systems, Computational Biology and Chemistry
+* Journals: Statistica Sinica, Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, Knowledge and Information Systems, IEEE Transactions on Cybernetics, BMC Genomics, Scientific Report, PLOS One, Computer Methods and Programs in Biomedicine, Information Sciences, Journal of Digital Imaging, Journal of Cleaner Production, Mathematical Biosciences, Chemometrics and Intelligent Laboratory Systems, Computational Biology and Chemistry
 
 * Conferences: The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP) , ACM International Conference on Web Search and Data Mining (WSDM), International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM), International Conference On Intelligent Computing
 

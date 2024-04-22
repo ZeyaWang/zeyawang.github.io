@@ -69,7 +69,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 * **Zeya Wang**, Nanqing Dong, Wei Dai, Sean D Rosario, Eric Xing (2018). Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling. _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
 
 ### Unrefereed Manuscripts
-**Zeya Wang**, Chenglong Ye (2024). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures.
+* **Zeya Wang**, Chenglong Ye (2024). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures.
 
 * Hao Zhang, Peng Wu, Zhijie Deng, Christy Li, Qirong Ho, Aurick Qiao, **Zeya Wang**, Eric Xing (2021). Autodist: A
 Composable and Automated Synchronization System for Distributed Deep learning.

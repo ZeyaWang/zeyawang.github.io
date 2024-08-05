@@ -14,7 +14,7 @@ I earned my Ph.D. from the Department of Statistics at the George R. Brown Schoo
 
 I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. Further enriching my experience, I completed a research internship at IBM Research, focusing on genomic data compression.
 
-My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on biomarker detection in imaging genomics, machine intelligence, and precision medicine.
+My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection in imaging genomics.
 
 
 

@@ -43,6 +43,8 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * Graduate Research Assistant, UT MD Anderson Cancer Center, 2013 - 2017
 
+* Graduate Student, Rice University, 2012 - 2017
+
 
 ## Publications
 

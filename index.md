@@ -30,11 +30,17 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 ## Professional Experience
 Assistant Professor, University of Kentucky, 2023 - Present
+
 Machine Learning Engineer, TikTok, 2021 - 2023
+
 Research Scientist, Petuum, 2017 - 2021
+
 Postdoc, UT MD Anderson Cancer Center, 2017
+
 Visiting Postdoc, Wellcome Sanger Institute, 2017
+
 Research Intern, IBM Research, 2016
+
 Graduate Research Assistant, UT MD Anderson Cancer Center, 2013 - 2017
 
 

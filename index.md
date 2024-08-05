@@ -122,7 +122,10 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
 ### Students:
-####Alumni
+#### Alumni
+Xinrong Hu, Graduate Intern (2022) -> Machine Learning Scientist @ TikTok
+
+Alexander Gurung, Graduate Intern (2021) -> AI Resident @ Facebook
 
 ### Social Activities
 I'm also a soccer enthusiast and a dedicated amateur player. My amateurish soccer journey has led me to the role of striker in several teams, including Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC, all within the Greater Pittsburgh Soccer League.

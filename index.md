@@ -28,6 +28,15 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 [Linkedin](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzeyawang%2F&sa=D)
 
 
+## Professional Experience
+Assistant Professor, University of Kentucky, 2023 - Present
+Machine Learning Engineer, TikTok, 2021 - 2023
+Research Scientist, Petuum, 2017 - 2021
+Postdoc, UT MD Anderson Cancer Center, 2017
+Visiting Postdoc, Wellcome Sanger Institute, 2017
+Research Intern, IBM Research, 2016
+Graduate Research Assistant, UT MD Anderson Cancer Center, 2013 - 2017
+
 
 ## Publications
 
@@ -106,6 +115,8 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 * Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
+### Students:
+####Alumni
 
 ### Social Activities
 I'm also a soccer enthusiast and a dedicated amateur player. My amateurish soccer journey has led me to the role of striker in several teams, including Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC, all within the Greater Pittsburgh Soccer League.

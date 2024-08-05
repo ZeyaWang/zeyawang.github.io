@@ -17,10 +17,6 @@ I have also held a significant role as a Postdoctoral Research Fellow at the Uni
 My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection in imaging genomics.
 
 
-
-Google site
-https://sites.google.com/view/zeyawang/home
-
 Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=3xUT1e0AAAAJ&hl=en)

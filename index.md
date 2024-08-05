@@ -130,4 +130,4 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 - Alexander Gurung, Graduate Intern (2021) -> AI Resident @ Facebook
 
 ### Social Activities
-I'm also a soccer enthusiast and a dedicated amateur player. My amateurish soccer journey has led me to the role of striker in several teams, including Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC, all within the Greater Pittsburgh Soccer League.
+I'm also a soccer enthusiast and play striker for amateur teams like Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC in the Greater Pittsburgh Soccer League.

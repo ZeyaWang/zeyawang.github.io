@@ -123,11 +123,10 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 * Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
-### Students:
-#### Alumni
+## Alumni Students:
 - Xinrong Hu, Graduate Intern (2022) -> Machine Learning Scientist @ TikTok
 
 - Alexander Gurung, Graduate Intern (2021) -> AI Resident @ Facebook
 
-### Social Activities
+## Social Activities
 I'm also a soccer enthusiast and have played striker for amateur teams like Phoenix FC, Riverrats FC, and Partizan Pittsburgh FC in the Greater Pittsburgh Soccer League.

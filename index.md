@@ -10,7 +10,16 @@
 
 **University of Kentucky**
 
+I earned my Ph.D. from the Department of Statistics at the George R. Brown School of Engineering, Rice University. My professional journey includes serving as a Senior Machine Learning Engineer at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I contributed as a Research Scientist at Petuum Inc., founded by Carnegie Mellon University, focusing on machine learning and medical imaging.
 
+I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. Further enriching my experience, I completed a research internship at IBM Research, focusing on genomic data compression.
+
+My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on biomarker detection in imaging genomics, machine intelligence, and precision medicine.
+
+
+
+Google site
+https://sites.google.com/view/zeyawang/home
 Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=3xUT1e0AAAAJ&hl=en)

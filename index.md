@@ -10,7 +10,7 @@
 
 **University of Kentucky**
 
-I earned my Ph.D. from the Department of Statistics at the George R. Brown School of Engineering, Rice University. My professional journey includes serving as a Senior Machine Learning Engineer at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I contributed as a Research Scientist at Petuum Inc., founded by Carnegie Mellon University, focusing on machine learning and medical imaging.
+I earned my Ph.D. in Statistics from Rice University. My professional journey includes serving as a Senior Machine Learning Engineer at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I contributed as a Research Scientist at Petuum Inc., founded by Carnegie Mellon University, focusing on machine learning and medical imaging.
 
 I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. Further enriching my experience, I completed a research internship at IBM Research, focusing on genomic data compression.
 
@@ -29,19 +29,19 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 
 ## Professional Experience
-Assistant Professor, University of Kentucky, 2023 - Present
+* Assistant Professor, University of Kentucky, 2023 - Present
 
-Machine Learning Engineer, TikTok, 2021 - 2023
+* Machine Learning Engineer, TikTok, 2021 - 2023
 
-Research Scientist, Petuum, 2017 - 2021
+* Research Scientist, Petuum, 2017 - 2021
 
-Postdoc, UT MD Anderson Cancer Center, 2017
+* Postdoc, UT MD Anderson Cancer Center, 2017
 
-Visiting Postdoc, Wellcome Sanger Institute, 2017
+* Visiting Postdoc, Wellcome Sanger Institute, 2017
 
-Research Intern, IBM Research, 2016
+* Research Intern, IBM Research, 2016
 
-Graduate Research Assistant, UT MD Anderson Cancer Center, 2013 - 2017
+* Graduate Research Assistant, UT MD Anderson Cancer Center, 2013 - 2017
 
 
 ## Publications

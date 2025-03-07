@@ -27,7 +27,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * Machine Learning Engineer, TikTok, 2021 - 2023
 
-* Data Scientist, Petuum, 2017 - 2021
+* Research/Data Scientist, Petuum, 2017 - 2021
 
 * Postdoc, UT MD Anderson Cancer Center, 2017
 

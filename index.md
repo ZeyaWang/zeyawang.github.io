@@ -25,7 +25,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ## Professional Experience
 * Assistant Professor, University of Kentucky, 2023 - Present
 
-* Machine Learning Engineer, TikTok, 2021 - 2023
+* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
 
 * Research/Data Scientist, Petuum, 2017 - 2021
 

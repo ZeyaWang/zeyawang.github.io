@@ -115,8 +115,9 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 * Conferences: The Conference on Neural Information Processing Systems (NeurIPS), The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP) , ACM International Conference on Web Search and Data Mining (WSDM), International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM), International Conference On Intelligent Computing
 
 ### Teaching Experience:
-
-* Instructor of STA 695: Statistical Machine Learning and Predictive Modeling, Fall 2023, University of Kentucky
+* Instructor of STA 630: Bayesian Inference, Spring 2025, University of Kentucky
+* Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
+* Instructor of STA 629/695: Statistical Machine Learning and Predictive Modeling, Fall 2023,2024, University of Kentucky
 * Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 

@@ -21,7 +21,6 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 [Linkedin](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzeyawang%2F&sa=D)
 
-[Resume](https://drive.google.com/file/d/17peVIQ57hMFqUhZSu602OtkD87sDl-VI/view?usp=share_link)
 
 
 ## Professional Experience

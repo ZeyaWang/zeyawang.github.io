@@ -12,7 +12,7 @@
 
 I earned my Ph.D. in Statistics from Rice University. My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I worked as a Research Scientist at Petuum Inc. founded by the Machine Learning Department at Carnegie Mellon University, focusing on machine learning and medical imaging. I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. 
 
-My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection in imaging genomics.
+My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection.
 
 
 Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com

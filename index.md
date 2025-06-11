@@ -63,13 +63,6 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * Aliaksei Z Holik, Charity W Law, Ruijie Liu, **Zeya Wang**, Wenyi Wang, Jaeil Ahn, Marie-Liesse Asselin-Labat, Gordon K Smyth, Matthew E Ritchie (2017). RNA-seq mixology: designing realistic control experiments to compare protocols and analysis methods. _**Nucleic acids research**_
 
-* Malin Song, Wanping Zheng, **Zeya Wang** (2016). Environmental efficiency and energy consumption of highway transportation systems in China. _**International Journal of Production Economics**_
-
-* Malin Song, Yaqin Song, Huayin Yu, **Zeya Wang** (2013). Calculation of China’s environmental efficiency and relevant hierarchical cluster analysis from the perspective of regional differences. _**Mathematical and Computer Modelling**_
-
-* Malin Song, Linling Zhang, Qingxian An, **Zeya Wang**, Zhen Li (2013). Statistical analysis and combination forecasting of environmental efficiency and its influential factors since China entered the WTO. _**Journal of Cleaner Production**_
-
-* Malin Song, Qingxian An, Wei Zhang, **Zeya Wang**, Jie Wu (2012). Environmental efficiency evaluation based on data envelopment analysis: a review. _**Renewable and Sustainable Energy Reviews**_
 
 ### Conference Publications
 

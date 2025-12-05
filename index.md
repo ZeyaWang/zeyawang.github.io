@@ -73,7 +73,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * Baoyu Jing, **Zeya Wang**, Eric Xing (2019). Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports. _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
 
-* **Zeya Wang**, Nanqing Dong, Sean D Rosario, Min Xu, Pengtao Xie, Eric Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging**_ (ISBI)
+* **Zeya Wang**, Nanqing Dong, Sean D Rosario, Min Xu, Pengtao Xie, Eric Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
 
 * Wei Dai, Nanqing Dong, **Zeya Wang**, Xiaodan Liang, Hao Zhang, Eric Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 

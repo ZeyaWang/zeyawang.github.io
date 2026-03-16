@@ -45,7 +45,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 ### Journal Publications
 \* = authors contributed equally,  ✉︎ = corresponding author
-* **Zeya Wang**✉︎, Chenglong Ye (2025). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures. _**Journal of the American Statistical Association**_ (In Press)
+* **Zeya Wang**✉︎, Chenglong Ye (2025). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures. _**Journal of the American Statistical Association**_
 
 * Yang Ni, Su Chen, **Zeya Wang** (2024). Casual Structural Modeling of Survey Questionnaires via a Bootstrapped Ordinal Bayesian Network Approach.  _**Psychometrika**_
 

@@ -48,6 +48,8 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * **Zeya Wang**✉︎, Longwen Shang, Yang Ni, Chenglong Ye (2026). Adapt via Bayesian Nonparametric Clustering: Fine-Grained Classification for Model Recycling Under Domain and Category Shift. _**Transactions on Machine Learning Research**_ 
 
+* Ross E. Binkley, Samuel Revolinski, Echo E. Gotsick, Ray S. Smith, **Zeya Wang**, Katsutoshi Mizuta (2026). Deep Learning-Based Quantification of Tall Fescue Abundance in Pastures. _**Frontiers in Agronomy**_
+
 * **Zeya Wang**✉︎, Chenglong Ye (2025). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures. _**Journal of the American Statistical Association**_
 
 * Yang Ni, Su Chen, **Zeya Wang** (2024). Casual Structural Modeling of Survey Questionnaires via a Bootstrapped Ordinal Bayesian Network Approach.  _**Psychometrika**_

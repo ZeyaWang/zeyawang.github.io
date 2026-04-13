@@ -46,7 +46,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ### Journal Publications
 \* = authors contributed equally,  ✉︎ = corresponding author
 
-* **Zeya Wang**✉︎, Longwen Shang, Yang Ni, Chenglong Ye (2026). Adapt via Bayesian Nonparametric Clustering: Fine-Grained Classification for Model Recycling Under Domain and Category Shift. _**Transactions on Machine Learning Research**_ (Accepted) 
+* **Zeya Wang**✉︎, Longwen Shang, Yang Ni, Chenglong Ye (2026). Adapt via Bayesian Nonparametric Clustering: Fine-Grained Classification for Model Recycling Under Domain and Category Shift. _**Transactions on Machine Learning Research**_ 
 
 * **Zeya Wang**✉︎, Chenglong Ye (2025). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures. _**Journal of the American Statistical Association**_
 

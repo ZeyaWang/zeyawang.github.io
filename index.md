@@ -20,17 +20,17 @@ My research interests encompass methodological studies for machine learning, sta
 
 
 ## Professional Experience
-* Assistant Professor, [University of Kentucky](https://www.uky.edu/), 2023 - Present
+* Assistant Professor, University of Kentucky, 2023 - Present
 
-* Machine Learning Engineer, Tech Lead, [TikTok](https://www.tiktok.com/), 2021 - 2023
+* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
 
 * Research/Data Scientist, Petuum, 2017 - 2021
 
-* Postdoc, [UT MD Anderson Cancer Center](https://www.mdanderson.org/), 2017
+* Postdoc, UT MD Anderson Cancer Center, 2017
 
-* Visiting Postdoc, [Wellcome Sanger Institute](https://www.sanger.ac.uk/), 2017
+* Visiting Postdoc, Wellcome Sanger Institute, 2017
 
-* Research Intern, [IBM Research](https://research.ibm.com/), 2016
+* Research Intern, IBM Research, 2016
 
 
 

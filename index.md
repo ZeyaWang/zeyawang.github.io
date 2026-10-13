@@ -47,7 +47,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * R. E. Binkley, S. Revolinski, E. E. Gotsick, R. S. Smith, **Z. Wang**, K. Mizuta (2026). [Deep Learning-Based Quantification of Tall Fescue Abundance in Pastures](https://doi.org/10.3389/fagro.2026.1749362). _**Frontiers in Agronomy**_
 
-* **Z. Wang**✉︎, C. Ye (2025). [Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures](https://arxiv.org/abs/2403.14830). _**Journal of the American Statistical Association**_
+* **Z. Wang**✉︎, C. Ye (2025). [Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures](https://doi.org/10.1080/01621459.2025.2592926). _**Journal of the American Statistical Association**_
 
 * Y. Ni, S. Chen, **Z. Wang** (2024). [Causal Structural Modeling of Survey Questionnaires via a Bootstrapped Ordinal Bayesian Network Approach](https://www.cambridge.org/core/product/0206D74E516FF9B99BE25AA71753D5F3).  _**Psychometrika**_
 
@@ -77,7 +77,7 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
 
-* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). [SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays](https://arxiv.org/abs/1703.08770). _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
+* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 
 * N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). [Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images](https://doi.org/10.1007/978-3-030-00889-5_36). _**International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**_ 
 
@@ -90,7 +90,6 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 Composable and Automated Synchronization System for Distributed Deep learning.
 
 * S. Cao\*, **Z. Wang**\*, F. Gao, J. Chen, F. Zhang, D. E. Frigo, E. Efstathiou, S. Kopetz, W. Wang (2019). [An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT](https://doi.org/10.1101/566075).
-
 
 ## Contributed Softwares
 

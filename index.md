@@ -10,7 +10,7 @@ Email: Zeya.Wang@uky.edu
 
 Personal Email: zw17.rice@gmail.com
 
-<a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>   <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
+<a href="mailto:Zeya.Wang@uky.edu" title="School email"><img src="./icons/school-email.svg" alt="School email" width="20" height="20"></a>   <a href="mailto:zw17.rice@gmail.com" title="Personal email"><img src="./icons/personal-email.svg" alt="Personal email" width="20" height="20"></a>   <a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>   <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
 
 <br clear="left">
 

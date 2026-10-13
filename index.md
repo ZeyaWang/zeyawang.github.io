@@ -1,4 +1,6 @@
-<img src="./zeyawang.jpeg" alt="Zeya Wang" width="260" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
+<img src="./zeyawang.jpeg" alt="Zeya Wang" width="380" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
+
+Zeya Wang
 
 Assistant Professor, Department of Statistics
 

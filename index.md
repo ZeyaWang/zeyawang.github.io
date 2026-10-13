@@ -43,53 +43,54 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ### Journal Publications
 \* = authors contributed equally,  ✉︎ = corresponding author
 
-* **Z. Wang**✉︎, L. Shang, Y. Ni, C. Ye (2026). Adapt via Bayesian Nonparametric Clustering: Fine-Grained Classification for Model Recycling Under Domain and Category Shift. _**Transactions on Machine Learning Research**_ 
+* **Z. Wang**✉︎, L. Shang, Y. Ni, C. Ye (2026). [Adapt via Bayesian Nonparametric Clustering: Fine-Grained Classification for Model Recycling Under Domain and Category Shift](https://openreview.net/forum?id=J5B4yt7C37). _**Transactions on Machine Learning Research**_ 
 
-* R. E. Binkley, S. Revolinski, E. E. Gotsick, R. S. Smith, **Z. Wang**, K. Mizuta (2026). Deep Learning-Based Quantification of Tall Fescue Abundance in Pastures. _**Frontiers in Agronomy**_
+* R. E. Binkley, S. Revolinski, E. E. Gotsick, R. S. Smith, **Z. Wang**, K. Mizuta (2026). [Deep Learning-Based Quantification of Tall Fescue Abundance in Pastures](https://doi.org/10.3389/fagro.2026.1749362). _**Frontiers in Agronomy**_
 
-* **Z. Wang**✉︎, C. Ye (2025). Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures. _**Journal of the American Statistical Association**_
+* **Z. Wang**✉︎, C. Ye (2025). [Deep Clustering Evaluation: How to Validate Internal Clustering Validation Measures](https://arxiv.org/abs/2403.14830). _**Journal of the American Statistical Association**_
 
-* Y. Ni, S. Chen, **Z. Wang** (2024). Causal Structural Modeling of Survey Questionnaires via a Bootstrapped Ordinal Bayesian Network Approach.  _**Psychometrika**_
+* Y. Ni, S. Chen, **Z. Wang** (2024). [Causal Structural Modeling of Survey Questionnaires via a Bootstrapped Ordinal Bayesian Network Approach](https://www.cambridge.org/core/product/0206D74E516FF9B99BE25AA71753D5F3).  _**Psychometrika**_
 
-* **Z. Wang**, V. Baladandayuthapani, A. O. Kaseb, H. M. Amin, M. M. Hassan, W. Wang, J. S. Morris (2022). Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer. _**Journal of the American Statistical Association**_
+* **Z. Wang**, V. Baladandayuthapani, A. O. Kaseb, H. M. Amin, M. M. Hassan, W. Wang, J. S. Morris (2022). [Bayesian Edge Regression in Undirected Graphical Models to Characterize Interpatient Heterogeneity in Cancer](https://doi.org/10.1080/01621459.2021.2000866). _**Journal of the American Statistical Association**_
 
-* **Z. Wang**✉︎, Y. Ni, B. Jing, D. Wang, H. Zhang, E. Xing (2021). DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering. _**IEEE Transactions on Neural Networks and Learning Systems**_
+* **Z. Wang**✉︎, Y. Ni, B. Jing, D. Wang, H. Zhang, E. Xing (2021). [DNB: A Joint Learning Framework for Deep Bayesian Nonparametric Clustering](https://doi.org/10.1109/TNNLS.2021.3085891). _**IEEE Transactions on Neural Networks and Learning Systems**_
 
-* J. Zhou, B. Jing, **Z. Wang**✉︎, H. Xin, H. Tong (2021). Soda: Detecting covid-19 in chest x-rays with semi-supervised open set domain adaptation. _**IEEE/ACM Transactions on Computational Biology and Bioinformatics**_
+* J. Zhou, B. Jing, **Z. Wang**✉︎, H. Xin, H. Tong (2021). [Soda: Detecting covid-19 in chest x-rays with semi-supervised open set domain adaptation](https://doi.org/10.1109/TCBB.2021.3066331). _**IEEE/ACM Transactions on Computational Biology and Bioinformatics**_
 
-* S. Kadambi\*, **Z. Wang**\*✉︎, E. Xing (2021). WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images. _**International Journal of Computer Assisted Radiology and Surgery**_
+* S. Kadambi\*, **Z. Wang**\*✉︎, E. Xing (2021). [WGAN domain adaptation for the joint optic disc-and-cup segmentation in fundus images](https://doi.org/10.1007/s11548-020-02144-9). _**International Journal of Computer Assisted Radiology and Surgery**_
 
-* J. S. Morris, M. M. Hassan, Y. E. Zohner, **Z. Wang**, L. Xiao, A. Rashid, A. Haque, R. Abdel‐Wahab, Y. A. Mohamed, K. L. Ballard, R. A. Wolff, B. George, L. Li, G. Allen, M. Weylandt, D. Li, W. Wang, K. Raghav, J. Yao, H. M. Amin, A. O. Kaseb (2020). HepatoScore‐14: Measures of biological heterogeneity significantly improve prediction of hepatocellular carcinoma risk. _**Hepatology**_
+* J. S. Morris, M. M. Hassan, Y. E. Zohner, **Z. Wang**, L. Xiao, A. Rashid, A. Haque, R. Abdel‐Wahab, Y. A. Mohamed, K. L. Ballard, R. A. Wolff, B. George, L. Li, G. Allen, M. Weylandt, D. Li, W. Wang, K. Raghav, J. Yao, H. M. Amin, A. O. Kaseb (2020). [HepatoScore‐14: Measures of biological heterogeneity significantly improve prediction of hepatocellular carcinoma risk](https://doi.org/10.1002/hep.31555). _**Hepatology**_
 
-* **Z. Wang**, S. Cao, J. S. Morris, J. Ahn, R. Liu, S. Tyekucheva, F. Gao, B. Li, W. Lu, X. Tang, I. I. Wistuba, M. Bowden, L. Mucci, M. Loda, G. Parmigiani, C. C. Holmes, W. Wang (2018). Transcriptome Deconvolution of Heterogeneous Tumor Samples with Immune Infiltration. _**iScience (Cell Press)**_
+* **Z. Wang**, S. Cao, J. S. Morris, J. Ahn, R. Liu, S. Tyekucheva, F. Gao, B. Li, W. Lu, X. Tang, I. I. Wistuba, M. Bowden, L. Mucci, M. Loda, G. Parmigiani, C. C. Holmes, W. Wang (2018). [Transcriptome Deconvolution of Heterogeneous Tumor Samples with Immune Infiltration](https://doi.org/10.1016/j.isci.2018.10.028). _**iScience (Cell Press)**_
 
-* A. Z. Holik, C. W. Law, R. Liu, **Z. Wang**, W. Wang, J. Ahn, M.-L. Asselin-Labat, G. K. Smyth, M. E. Ritchie (2017). RNA-seq mixology: designing realistic control experiments to compare protocols and analysis methods. _**Nucleic acids research**_
+* A. Z. Holik, C. W. Law, R. Liu, **Z. Wang**, W. Wang, J. Ahn, M.-L. Asselin-Labat, G. K. Smyth, M. E. Ritchie (2017). [RNA-seq mixology: designing realistic control experiments to compare protocols and analysis methods](https://doi.org/10.1093/nar/gkw1063). _**Nucleic acids research**_
 
 
 ### Conference Publications
 
 
-* Y. Ni, D. Jones, **Z. Wang** (2020). Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering. _**IEEE International Conference on Big Data (IEEE BigData)**_
+* Y. Ni, D. Jones, **Z. Wang** (2020). [Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering](https://scholars.uky.edu/en/publications/consensus-variational-and-monte-carlo-algorithms-for-bayesian-non/). _**IEEE International Conference on Big Data (IEEE BigData)**_
 
-* **Z. Wang**, B. Jing, Y. Ni, N. Dong, P. Xie, E. Xing (2020). Adversarial domain adaptation being aware of class relationships. _**European Conference on Artificial Intelligence (ECAI)**_ (Oral Presentation)
+* **Z. Wang**, B. Jing, Y. Ni, N. Dong, P. Xie, E. Xing (2020). [Adversarial domain adaptation being aware of class relationships](https://doi.org/10.3233/FAIA200267). _**European Conference on Artificial Intelligence (ECAI)**_ (Oral Presentation)
 
-* B. Jing, **Z. Wang**, E. Xing (2019). Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports. _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
+* B. Jing, **Z. Wang**, E. Xing (2019). [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://aclanthology.org/P19-1657/). _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
 
 * **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
 
-* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
+* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). [SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays](https://arxiv.org/abs/1703.08770). _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 
-* N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images. _**International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**_ 
+* N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). [Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images](https://doi.org/10.1007/978-3-030-00889-5_36). _**International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**_ 
 
-* N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). Unsupervised domain adaptation for automatic estimation of cardiothoracic ratio. _**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**_ 
+* N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). [Unsupervised domain adaptation for automatic estimation of cardiothoracic ratio](https://doi.org/10.1007/978-3-030-00934-2_61). _**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**_ 
 
-* **Z. Wang**, N. Dong, W. Dai, S. D. Rosario, E. Xing (2018). Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling. _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
+* **Z. Wang**, N. Dong, W. Dai, S. D. Rosario, E. Xing (2018). [Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling](https://doi.org/10.1007/978-3-319-93000-8_84). _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
 
 ### Unrefereed Manuscripts
 * H. Zhang, P. Wu, Z. Deng, C. Li, Q. Ho, A. Qiao, **Z. Wang**, E. Xing (2021). Autodist: A
 Composable and Automated Synchronization System for Distributed Deep learning.
 
-* S. Cao\*, **Z. Wang**\*, F. Gao, J. Chen, F. Zhang, D. E. Frigo, E. Efstathiou, S. Kopetz, W. Wang (2019). An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT.
+* S. Cao\*, **Z. Wang**\*, F. Gao, J. Chen, F. Zhang, D. E. Frigo, E. Efstathiou, S. Kopetz, W. Wang (2019). [An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT](https://doi.org/10.1101/566075).
+
 
 ## Contributed Softwares
 

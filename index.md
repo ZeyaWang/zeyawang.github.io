@@ -85,11 +85,6 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
 * **Z. Wang**, N. Dong, W. Dai, S. D. Rosario, E. Xing (2018). [Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling](https://doi.org/10.1007/978-3-319-93000-8_84). _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
 
-### Unrefereed Manuscripts
-* H. Zhang, P. Wu, Z. Deng, C. Li, Q. Ho, A. Qiao, **Z. Wang**, E. Xing (2021). Autodist: A
-Composable and Automated Synchronization System for Distributed Deep learning.
-
-* S. Cao\*, **Z. Wang**\*, F. Gao, J. Chen, F. Zhang, D. E. Frigo, E. Efstathiou, S. Kopetz, W. Wang (2019). [An R Implementation of Tumor-Stroma-Immune Transcriptome Deconvolution Pipeline using DeMixT](https://doi.org/10.1101/566075).
 
 ## Contributed Softwares
 

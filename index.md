@@ -1,12 +1,13 @@
 <img src="./zeyawang.jpeg" alt="Zeya Wang" width="380" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
 
-Zeya Wang
+<span style="font-size: 1.5em; font-family: Georgia, serif;">Zeya Wang</span>
 
 Assistant Professor, Department of Statistics
 
 University of Kentucky
 
 Email: Zeya.Wang@uky.edu
+
 Personal Email: zw17.rice@gmail.com
 
 <a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>   <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>

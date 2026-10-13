@@ -9,10 +9,7 @@
 
 Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
-<p style="font-size: 30px; margin-top: 4px;">
-  <a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar" aria-label="Google Scholar" style="margin-right: 16px;"><i class="ai ai-google-scholar"></i></a>
-  <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
-</p>
+<a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>   <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
 
 I earned my Ph.D. in Statistics from [Rice University](https://www.rice.edu/), supervised by [Prof. Wenyi Wang](https://faculty.mdanderson.org/profiles/wenyi_wang.html) and [Prof. Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/). My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the Machine Learning Department at Carnegie Mellon University, where I worked with [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/) and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. 
 

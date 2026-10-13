@@ -69,15 +69,15 @@ Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 ### Conference Publications
 
 
-* Y. Ni, D. Jones, **Z. Wang** (2020). [Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering](https://scholars.uky.edu/en/publications/consensus-variational-and-monte-carlo-algorithms-for-bayesian-non/). _**IEEE International Conference on Big Data (IEEE BigData)**_
+* Y. Ni, D. Jones, **Z. Wang** (2020). [Consensus Variational and Monte Carlo Algorithms for Bayesian Nonparametric Clustering](https://ieeexplore.ieee.org/document/9378319). _**IEEE International Conference on Big Data (IEEE BigData)**_
 
 * **Z. Wang**, B. Jing, Y. Ni, N. Dong, P. Xie, E. Xing (2020). [Adversarial domain adaptation being aware of class relationships](https://doi.org/10.3233/FAIA200267). _**European Conference on Artificial Intelligence (ECAI)**_ (Oral Presentation)
 
 * B. Jing, **Z. Wang**, E. Xing (2019). [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://aclanthology.org/P19-1657/). _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
 
-* **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images.  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
+* **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). [Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images](https://ieeexplore.ieee.org/abstract/document/8759173).  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
 
-* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays. _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
+* W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). [SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30). _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 
 * N. Dong, M. Kampffmeyer, X. Liang, **Z. Wang**, W. Dai, E. Xing (2018). [Reinforced Auto-Zoom Net: Towards Accurate and Fast Breast Cancer Segmentation in Whole-slide Images](https://doi.org/10.1007/978-3-030-00889-5_36). _**International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**_ 
 

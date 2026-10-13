@@ -2,7 +2,11 @@
 
 <span style="font-size: 2.5em; font-family: Verdana, sans-serif;">Zeya Wang</span>
 
-Assistant Professor, Department of Statistics
+Assistant Professor of Statistics
+
+[Department of Statistics](https://stat.as.uky.edu/)
+
+[The AI Literacy and Training (ALT) Hub](https://catsai.uky.edu/alt-hub)
 
 University of Kentucky
 

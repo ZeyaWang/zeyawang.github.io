@@ -1,20 +1,15 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-<img src="./zeyawang.jpeg" alt="drawing" width="600"/>
-
-**Assistant Professor, [Department of Statistics](https://stat.as.uky.edu/)**
-
-**[University of Kentucky](https://www.uky.edu/)**
-
-Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
-
-<a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>   <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a>
-
-I earned my Ph.D. in Statistics from [Rice University](https://www.rice.edu/), supervised by [Prof. Wenyi Wang](https://faculty.mdanderson.org/profiles/wenyi_wang.html) and [Prof. Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/). My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the Machine Learning Department at Carnegie Mellon University, where I worked with [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/) and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. 
-
-My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection.
-
+<div style="display: flex; flex-wrap: wrap; gap: 32px; align-items: flex-start; margin-bottom: 16px;">
+  <div style="flex: 0 0 260px; max-width: 100%;">
+    <img src="./zeyawang.jpeg" alt="Zeya Wang" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 1 1 340px; min-width: 0;">
+    <p style="margin-top: 0;"><strong>Assistant Professor, <a href="https://stat.as.uky.edu/">Department of Statistics</a></strong><br>
+    <strong><a href="https://www.uky.edu/">University of Kentucky</a></strong></p>
+    <p>I earned my Ph.D. in Statistics from <a href="https://www.rice.edu/">Rice University</a>, supervised by <a href="https://faculty.mdanderson.org/profiles/wenyi_wang.html">Prof. Wenyi Wang</a> and <a href="https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/">Prof. Jeffrey S. Morris</a>. My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at <a href="https://www.tiktok.com/">TikTok</a>, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the <a href="https://www.ml.cmu.edu/">Machine Learning Department</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I worked with <a href="http://www.cs.cmu.edu/~epxing/">Prof. Eric Xing</a> and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the <a href="https://www.mdanderson.org/">University of Texas MD Anderson Cancer Center</a>, where I delved into statistical modeling on omics data.</p>
+    <p>Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com</p>
+    <p><a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar"><img src="./icons/googlescholar.svg" alt="Google Scholar" width="32" height="32"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn"><img src="./icons/linkedin.svg" alt="LinkedIn" width="32" height="32"></a></p>
+  </div>
+</div>
 
 ## Professional Experience
 * Assistant Professor, University of Kentucky, 2023 - Present

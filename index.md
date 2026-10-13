@@ -22,25 +22,11 @@ layout: default
 
 I earned my Ph.D. in Statistics from Rice University, supervised by [Prof. Wenyi Wang](https://faculty.mdanderson.org/profiles/wenyi_wang.html) and [Prof. Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/). My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the Machine Learning Department at Carnegie Mellon University, where I worked with [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/) and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. 
 
-## Experience {#experience}
-
-* Assistant Professor, University of Kentucky, 2023 - Present
-* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
-* Research/Data Scientist, Petuum, 2017 - 2021
-* Postdoc, UT MD Anderson Cancer Center, 2017
-* Visiting Postdoc, Wellcome Sanger Institute, 2017
-* Research Intern, IBM Research, 2016
-
-## Alumni Students {#students}
-
-* Xinrong Hu, Graduate Intern (2022) -> Machine Learning Scientist @ TikTok
-* Alexander Gurung, Graduate Intern (2021) -> AI Resident @ Facebook
-
 ## Research {#research}
 
 My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection.
 
-## Publications & Software {#publications}
+## Publications {#publications}
 
 ### Journal Publications
 \* = authors contributed equally,  ✉︎ = corresponding author
@@ -85,7 +71,7 @@ My research interests encompass methodological studies for machine learning, sta
 
 * **Z. Wang**, N. Dong, W. Dai, S. D. Rosario, E. Xing (2018). [Classification of Breast Cancer Histopathological Images using Convolutional Neural Networks with Hierarchical Loss and Global Pooling](https://doi.org/10.1007/978-3-319-93000-8_84). _**International Conference Image Analysis and Recognition (ICIAR)**_  (Oral Presentation)
 
-### Contributed Software {#software}
+## Contributed Softwares {#software}
 
 * **[DeMixT](https://www.bioconductor.org/packages/release/bioc/html/DeMixT.html)**: A Computational Tool for Cell Type-specific Deconvolution of Heterogeneous Tumor Samples Using Expression Data from RNAseq or Microarray Platforms
 
@@ -112,6 +98,20 @@ My research interests encompass methodological studies for machine learning, sta
 * Instructor of STA 629/695: Statistical Machine Learning and Predictive Modeling, Fall 2023/2024, University of Kentucky
 * Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
+
+## Alumni Students {#students}
+
+* Xinrong Hu, Graduate Intern (2022) -> Machine Learning Scientist @ TikTok
+* Alexander Gurung, Graduate Intern (2021) -> AI Resident @ Facebook
+
+## Experience {#experience}
+
+* Assistant Professor, University of Kentucky, 2023 - Present
+* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
+* Research/Data Scientist, Petuum, 2017 - 2021
+* Postdoc, UT MD Anderson Cancer Center, 2017
+* Visiting Postdoc, Wellcome Sanger Institute, 2017
+* Research Intern, IBM Research, 2016
 
 ## Social Activities
 

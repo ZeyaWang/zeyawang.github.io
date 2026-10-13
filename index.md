@@ -1,6 +1,6 @@
 <img src="./zeyawang.jpeg" alt="Zeya Wang" width="430" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
 
-<span style="font-size: 2.1em; font-family: Calibri, Carlito, "Segoe UI", Arial, sans-serif;">Zeya Wang</span>
+<span style="font-size: 2.1em; font-family: Calibri, Carlito, 'Segoe UI', Arial, sans-serif;">Zeya Wang</span>
 
 Assistant Professor of Statistics
 

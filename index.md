@@ -1,4 +1,4 @@
-<img src="./zeyawang.jpeg" alt="Zeya Wang" width="380" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
+<img src="./zeyawang.jpeg" alt="Zeya Wang" width="430" align="left" style="margin-right: 32px; margin-bottom: 16px; border-radius: 8px;">
 
 <span style="font-size: 2.5em; font-family: Verdana, sans-serif;">Zeya Wang</span>
 

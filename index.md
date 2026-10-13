@@ -105,14 +105,14 @@ Composable and Automated Synchronization System for Distributed Deep learning.
 
 ### Program Committee Members or Reviewers for:
 * Journals
-  * Statistics: Statistica Sinica, Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, Journal of Applied Statistics, Journal of Educational and Behavioral Statistics, Communications in Statistics, Chemometrics and Intelligent Laboratory Systems
-  * Machine Learning & AI: Journal of Machine Learning Research, Artificial Intelligence Review, Knowledge and Information Systems, Information Sciences, IEEE Transactions on Cybernetics, IEEE Transactions on Signal Processing, Neurocomputing, Engineering Applications of Artificial Intelligence, Image and Vision Computing, Signal Image and Video Processing, Journal of Network and Computer Applications, Journal of Supercomputing, PeerJ Computer Science
-  * Bioinformatics & Biomedical: eLife, BMC Genomics, Mathematical Biosciences, Computational Biology and Chemistry, Computers in Biology and Medicine, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing \& Control, Journal of Digital Imaging
-  * Multidisciplinary: Scientific Reports, PLOS One, Journal of Cleaner Production
+  * <u>Statistics</u>: Statistica Sinica, Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, Journal of Applied Statistics, Journal of Educational and Behavioral Statistics, Communications in Statistics, Chemometrics and Intelligent Laboratory Systems
+  * <u>Machine Learning & AI</u>: Journal of Machine Learning Research, Artificial Intelligence Review, Knowledge and Information Systems, Information Sciences, IEEE Transactions on Cybernetics, IEEE Transactions on Signal Processing, Neurocomputing, Engineering Applications of Artificial Intelligence, Image and Vision Computing, Signal Image and Video Processing, Journal of Network and Computer Applications, Journal of Supercomputing, PeerJ Computer Science
+  * <u>Bioinformatics & Biomedical</u>: eLife, BMC Genomics, Mathematical Biosciences, Computational Biology and Chemistry, Computers in Biology and Medicine, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing \& Control, Journal of Digital Imaging
+  * <u>Multidisciplinary</u>: Scientific Reports, PLOS One, Journal of Cleaner Production
 
 * Conferences
-  * Machine Learning & AI: The Conference on Neural Information Processing Systems (NeurIPS; Top Reviewer in NeurIPS 2025), International Conference on Learning Representations (ICLR), The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP), ACM International Conference on Web Search and Data Mining (WSDM), International Conference on Intelligent Computing (ICIC)
-  * Bioinformatics: International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+  * <u>Machine Learning & AI</u>: The Conference on Neural Information Processing Systems (NeurIPS; Top Reviewer in NeurIPS 2025), International Conference on Learning Representations (ICLR), The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP), ACM International Conference on Web Search and Data Mining (WSDM), International Conference on Intelligent Computing (ICIC)
+  * <u>Bioinformatics</u>: International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
 
 ### Teaching Experience:
 * Instructor of STA 630: Bayesian Inference, Spring 2025, University of Kentucky

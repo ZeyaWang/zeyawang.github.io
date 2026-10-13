@@ -1,40 +1,36 @@
-
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <img src="./zeyawang.jpeg" alt="drawing" width="600"/>
 
+**Assistant Professor, [Department of Statistics](https://stat.as.uky.edu/)**
 
+**[University of Kentucky](https://www.uky.edu/)**
 
-**Assistant Professor, Department of Statistics**
+Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
 
+<p style="font-size: 30px; margin-top: 4px;">
+  <a href="https://scholar.google.com/citations?user=3xUT1e0AAAAJ&amp;hl=en" title="Google Scholar" aria-label="Google Scholar" style="margin-right: 16px;"><i class="ai ai-google-scholar"></i></a>
+  <a href="https://www.linkedin.com/in/zeyawang/" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+</p>
 
-**University of Kentucky**
-
-I earned my Ph.D. in Statistics from Rice University, supervised by [Prof. Wenyi Wang](https://faculty.mdanderson.org/profiles/wenyi_wang.html) and [Prof. Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/). My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at TikTok, where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the Machine Learning Department at Carnegie Mellon University, where I worked with [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/) and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the University of Texas MD Anderson Cancer Center, where I delved into statistical modeling on omics data. 
+I earned my Ph.D. in Statistics from [Rice University](https://www.rice.edu/), supervised by [Prof. Wenyi Wang](https://faculty.mdanderson.org/profiles/wenyi_wang.html) and [Prof. Jeffrey S. Morris](https://dbei.med.upenn.edu/staff/jeffrey-s-morris-phd/). My professional journey includes serving as a Senior Machine Learning Engineer, Tech Lead at [TikTok](https://www.tiktok.com/), where I specialized in predictive modeling, video understanding, and anomaly detection. Additionally, I was a Research Scientist at Petuum Inc., a company founded by faculty from the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I worked with [Prof. Eric Xing](http://www.cs.cmu.edu/~epxing/) and focused on machine learning and medical imaging research. I have also held a significant role as a Postdoctoral Research Fellow at the [University of Texas MD Anderson Cancer Center](https://www.mdanderson.org/), where I delved into statistical modeling on omics data. 
 
 My research interests encompass methodological studies for machine learning, statistical computing, graphical models, deep learning, and Bayesian inference, with a specific focus on machine intelligence, precision medicine, and biomarker detection.
 
 
-Email: Zeya.Wang@uky.edu; Personal Email: zw17.rice@gmail.com
-
-[Google Scholar](https://scholar.google.com/citations?user=3xUT1e0AAAAJ&hl=en)
-
-[Linkedin](https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fzeyawang%2F&sa=D)
-
-
-
 ## Professional Experience
-* Assistant Professor, University of Kentucky, 2023 - Present
+* Assistant Professor, [University of Kentucky](https://www.uky.edu/), 2023 - Present
 
-* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
+* Machine Learning Engineer, Tech Lead, [TikTok](https://www.tiktok.com/), 2021 - 2023
 
 * Research/Data Scientist, Petuum, 2017 - 2021
 
-* Postdoc, UT MD Anderson Cancer Center, 2017
+* Postdoc, [UT MD Anderson Cancer Center](https://www.mdanderson.org/), 2017
 
-* Visiting Postdoc, Wellcome Sanger Institute, 2017
+* Visiting Postdoc, [Wellcome Sanger Institute](https://www.sanger.ac.uk/), 2017
 
-* Research Intern, IBM Research, 2016
+* Research Intern, [IBM Research](https://research.ibm.com/), 2016
 
 
 

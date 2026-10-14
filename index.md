@@ -71,7 +71,7 @@ My research interests encompass methodological studies for machine learning, sta
 
 * B. Jing, **Z. Wang**, E. Xing (2019). [Show, Describe and Conclude: On Exploiting the Structure Information of Chest X-ray Reports](https://aclanthology.org/P19-1657/). _**Annual Meeting of the Association for Computational Linguistics (ACL)**_
 
-* **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). [Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images](https://ieeexplore.ieee.org/abstract/document/8759173).  _**IEEE 16th International Symposium on Biomedical Imaging (ISBI)**_ 
+* **Z. Wang**, N. Dong, S. D. Rosario, M. Xu, P. Xie, E. Xing (2019). [Ellipse Detection of Optic Disc-and-Cup Boundary in Fundus Images](https://ieeexplore.ieee.org/abstract/document/8759173).  _**IEEE International Symposium on Biomedical Imaging (ISBI)**_ 
 
 * W. Dai, N. Dong, **Z. Wang**, X. Liang, H. Zhang, E. Xing (2018). [SCAN: Structure correcting adversarial network for organ segmentation in chest X-rays](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_30). _**International Workshop on Deep Learning in Medical Image Analysis(DLMIA)**_ 
 
@@ -97,7 +97,7 @@ My research interests encompass methodological studies for machine learning, sta
 * Journals
   * <ins>Statistics</ins>: Statistica Sinica, Annals of Applied Statistics, Journal of the Royal Statistical Society: Series C, Journal of Applied Statistics, Journal of Educational and Behavioral Statistics, Communications in Statistics, Chemometrics and Intelligent Laboratory Systems
   * <ins>Machine Learning & AI</ins>: Journal of Machine Learning Research, Artificial Intelligence Review, Knowledge and Information Systems, Information Sciences, IEEE Transactions on Cybernetics, IEEE Transactions on Signal Processing, Neurocomputing, Engineering Applications of Artificial Intelligence, Image and Vision Computing, Signal Image and Video Processing, Journal of Network and Computer Applications, Journal of Supercomputing, PeerJ Computer Science
-  * <ins>Bioinformatics & Biomedical</ins>: eLife, BMC Genomics, Mathematical Biosciences, Computational Biology and Chemistry, Computers in Biology and Medicine, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing \& Control, Journal of Digital Imaging
+  * <ins>Bioinformatics & Biomedical</ins>: eLife, BMC Genomics, Mathematical Biosciences, Computational Biology and Chemistry, Computers in Biology and Medicine, Computer Methods and Programs in Biomedicine, Biomedical Signal Processing & Control, Journal of Digital Imaging
   * <ins>Multidisciplinary</ins>: Scientific Reports, PLOS One, Journal of Cleaner Production
 
 * Conferences

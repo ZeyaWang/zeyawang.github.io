@@ -102,7 +102,7 @@ My research interests encompass methodological studies for machine learning, sta
 
 * Conferences
   * <ins>Machine Learning & AI</ins>: The Conference on Neural Information Processing Systems (NeurIPS; Top Reviewer in NeurIPS 2025), International Conference on Learning Representations (ICLR), The AAAI Conference on Artificial Intelligence (AAAI), The Conference on Empirical Methods in Natural Language Processing (EMNLP), ACM International Conference on Web Search and Data Mining (WSDM), International Conference on Intelligent Computing (ICIC)
-  * <ins>Bioinformatics</ins>: International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+  * <ins>Bioinformatics</ins>: AI in Health Conference, International Symposium on Bioinformatics Research and Applications (ISBRA), IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
   
 ### Teaching Experience:
 * Instructor of STA 630: Bayesian Inference, Spring 2025, University of Kentucky

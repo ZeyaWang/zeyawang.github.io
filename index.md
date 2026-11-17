@@ -107,8 +107,8 @@ Cross (X)-Domain Acceleration(STAI-X), The AAAI Conference on Artificial Intelli
   
 ### Teaching Experience:
 * Instructor of STA 630: Bayesian Inference, Spring 2025, University of Kentucky
-* Instructor of STA 629/695: Statistical Machine Learning and Predictive Modeling, Fall 2023/2024, University of Kentucky
-* Instructor of STA 652: Advanced Statistical Models, Spring 2024, University of Kentucky
+* Instructor of STA 629/695: Statistical Machine Learning and Predictive Modeling, Fall 2023/2024; Spring 2026, University of Kentucky
+* Instructor of STA 652: Advanced Statistical Models, Spring 2024,2026 University of Kentucky
 * TA of STAT 581: Mathematical Probability I, Fall 2014, Rice University
 
 ## Alumni Students:

@@ -22,9 +22,9 @@ My research interests encompass methodological studies for machine learning, sta
 ## Professional Experience
 * Assistant Professor, University of Kentucky, 2023 - Present
 
-* Machine Learning Engineer, Tech Lead, TikTok, 2021 - 2023
+* Senior Machine Learning Engineer (Tech Lead), TikTok, 2021 - 2023
 
-* Research/Data Scientist, Petuum, 2017 - 2021
+* Research Scientist, Petuum, 2017 - 2021
 
 * Postdoc, UT MD Anderson Cancer Center, 2017
 
